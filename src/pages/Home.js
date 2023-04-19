@@ -26,7 +26,7 @@ function Home() {
           >
             <Email />
           </a>
-          <a href="https://github.com/login" target="_blank">
+          <a href="https://github.com/Aditya-k44" target="_blank">
             <GitHub />
           </a>
           <br />

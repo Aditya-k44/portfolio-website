@@ -28,7 +28,7 @@ function Footer() {
           <FacebookIcon />
         </a>
         <a
-          href="https://storage.googleapis.com/pod_public/750/126871.jpg"
+          href="https://www.linkedin.com/in/adityakulkarni4494/"
           target="_blank"
         >
           <LinkedInIcon />
